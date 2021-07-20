@@ -1,0 +1,222 @@
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.csprojAssemblyReference.cache
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.csproj.GenerateResource.cache
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.csproj.CoreCompileInputs.cache
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.CadastroMercado.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.Interface.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.Inicio.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.CadastroCortes.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.CadastroUsuario.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.Login.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.csproj.CopyComplete
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.CadastroInsumos.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Domain.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\DataAccess.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Domain.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\DataAccess.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Common.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Common.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.Pesquisa.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.Bemvindo.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\CircularProgressBar.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\WinFormAnimation.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\CircularProgressBar.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.TCalculo.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ClosedXML.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ExcelNumberFormat.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\System.IO.Packaging.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ClosedXML.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ClosedXML.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ExcelNumberFormat.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\EnvDTE.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\stdole.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\RdlCompile.cache
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\RdlCompile.compiled
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\pt-BR\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\System.IO.Packaging.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\System.Data.OleDb.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\System.Data.OleDb.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\obj\Debug\SGI.Relatorio.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.csprojAssemblyReference.cache
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.Bemvindo.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.CadastroCortes.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.CadastroInsumos.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.CadastroMercado.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.CadastroUsuario.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.Relatorio.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.TCalculo.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.Inicio.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.Interface.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.Login.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.Pesquisa.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.Properties.Resources.resources
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.csproj.GenerateResource.cache
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\RdlCompile.cache
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\RdlCompile.compiled
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\SGI.exe.config
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\SGI.exe
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\SGI.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\CircularProgressBar.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ClosedXML.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Common.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Domain.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ExcelNumberFormat.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\System.Data.OleDb.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\System.IO.Packaging.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\WinFormAnimation.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\DataAccess.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\EnvDTE.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\stdole.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Common.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Domain.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\CircularProgressBar.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ClosedXML.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ClosedXML.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ExcelNumberFormat.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\System.Data.OleDb.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\System.IO.Packaging.xml
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\DataAccess.pdb
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\bin\Debug\pt-BR\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.resources.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.csproj.CoreCompileInputs.cache
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Nova pasta (2)\SGI\SGI\obj\Debug\SGI.csproj.CopyComplete
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\Softaware\SGI\SGI\bin\Debug\ExcelLibrary.dll
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\05.12\Softaware\SGI\SGI\obj\Debug\SGI.csprojAssemblyReference.cache
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\05.12\Softaware\SGI\SGI\obj\Debug\SGI.exe
+C:\Users\rafha\OneDrive\Área de Trabalho\Arquivos\TCC\Programação\05.12\Softaware\SGI\SGI\obj\Debug\SGI.pdb
